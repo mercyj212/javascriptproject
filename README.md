@@ -13,7 +13,7 @@ This repository contains code and resources for learning and building JavaScript
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/javascriptproject.git
+    git clone https://github.com/mercyj212/javascriptproject.git
     ```
 2. Open the project folder.
 3. Run the JavaScript files in your preferred environment or browser.
